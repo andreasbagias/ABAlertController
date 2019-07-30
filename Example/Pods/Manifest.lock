@@ -1,0 +1,16 @@
+PODS:
+  - ABAlertController (0.1.0)
+
+DEPENDENCIES:
+  - ABAlertController (from `../`)
+
+EXTERNAL SOURCES:
+  ABAlertController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ABAlertController: cdae4577158ea710c2e5e4b06d8a0515adc19db3
+
+PODFILE CHECKSUM: 8837169cd7a03fcc94b971aea1d72123dee17122
+
+COCOAPODS: 1.7.2

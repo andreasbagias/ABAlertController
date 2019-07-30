@@ -1,0 +1,6 @@
+framework module ABAlertController {
+  umbrella header "ABAlertController-umbrella.h"
+
+  export *
+  module * { export * }
+}

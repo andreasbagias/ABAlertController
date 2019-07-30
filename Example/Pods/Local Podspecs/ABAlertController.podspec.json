@@ -1,0 +1,22 @@
+{
+  "name": "ABAlertController",
+  "version": "0.1.0",
+  "summary": "A short description of ABAlertController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/andreasbagias/ABAlertController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andreasbagias": "andreasbagias@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/andreasbagias/ABAlertController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ABAlertController/Classes/**/*"
+}
